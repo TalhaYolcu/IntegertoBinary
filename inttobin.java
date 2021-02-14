@@ -31,3 +31,4 @@ public class inttobin {
 	    System.out.println(chars);
 	}
 }
+
